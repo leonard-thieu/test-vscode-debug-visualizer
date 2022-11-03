@@ -12,7 +12,7 @@ OS: Windows_NT x64 6.3.9600
 Sandboxed: No
 ```
 
-[https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer](Debug Visualizer v2.3.1)
+[Debug Visualizer v2.3.1](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer)
 
 - `yarn`
 - Open project in Visual Studio Code
@@ -22,4 +22,5 @@ Sandboxed: No
 - Visualize `f`
 
 Expected: `Foo`
+
 Actual: `[object Object]`
